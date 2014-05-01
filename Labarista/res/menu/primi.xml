@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+        <item android:id="@+id/item1" android:title="Pasta">
+        <menu> 
+            <item android:id="@+id/item5" android:title="Carbonara"/>
+            <item android:id="@+id/item6" android:title="Pesto"/>
+            <item android:id="@+id/item7" android:title="Sea Fruit"/>
+        </menu>
+    </item>
+ <item android:id="@+id/item1" android:title="Rice">
+        <menu> 
+            <item android:id="@+id/item5" android:title="Risotto"/>
+            <item android:id="@+id/item6" android:title="Luganiga"/>
+            <item android:id="@+id/item7" android:title="shrimps saffran"/>
+        </menu>
+    </item>
+    <item android:id="@+id/item1" android:title="Others">
+        <menu> 
+            <item android:id="@+id/item5" android:title="Tar-Tare"/>
+            <item android:id="@+id/item6" android:title="Carpaccio"/>
+            <item android:id="@+id/item7" android:title="Scallops Gratin"/>
+        </menu>
+    </item>
+</menu>
